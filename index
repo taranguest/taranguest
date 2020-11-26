@@ -1,0 +1,331 @@
+<!DOCTYPE HTML>
+<!--
+-->
+<html>
+	<head>
+		<title>Taran Guest Productions</title>
+		<meta name="description" content="Hi, my name is Taran. Among other things, I am a songwriter,
+		a music producer and an audio engineer. I would be excited to work with you to help make your
+		musical goals and dreams become a reality.">
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+
+		<!-- favicons
+		================================================== -->
+		<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+		<link rel="icon" href="favicon.ico" type="image/x-icon">
+
+	</head>
+	<body class="is-preload">
+
+		<!-- Page Wrapper -->
+			<div id="page-wrapper">
+
+				<!-- Wrapper -->
+					<div id="wrapper"
+
+						<!-- Intro (Banner) -->
+							<section class="panel banner right" id="index">
+								<div class="content color0 span-3-75">
+									<h1 class="major">Hi, my name is Taran</h1>
+									<p><b>Among other things, I am a songwriter, a music producer and an audio engineer. I would be excited to work with you to help make your musical goals and dreams become a reality.</b></p>
+									<ul class="icons">
+										<li><a href="https://www.facebook.com/taranguest" class="icon brands fa-facebook-f" target="_blank"><span class="label">Facebook</span></a></li>
+										<li><a href="https://www.instagram.com/taranguest" class="icon brands fa-instagram" target="_blank"><span class="label">Instagram</span></a></li>
+										<li><a href="https://www.twitter.com/taranguest" class="icon brands fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
+										<li><a href="https://www.youtube.com/channel/UCDiywzI5G6f_126ApTwkhpg/featured" class="icon brands fa-youtube" target="_blank"><span class="label">YouTube</span></a></li>
+										<li><a href="https://taranguest.bandcamp.com" class="icon brands fa-bandcamp" target="_blank"><span class="label">Bandcamp</span></a></li>
+										<li><a href="https://soundcloud.com/taranguest" class="icon brands fa-soundcloud" target="_blank"><span class="label">Soundcloud</span></a></li>
+									</ul>
+									<ul class="actions">
+										<li><a href="#services" class="button primary color1 circle icon solid fa-angle-right"></a></li>
+									</ul>
+								</div>
+								<div class="image span-2" data-position="center">
+									<img src="images/pic01.jpg" alt="">
+								</div>
+							</section>
+
+						<!-- About Me (Spotlight) -->
+							<section class="panel spotlight medium right" id="about">
+								<div class="content span-6">
+									<h2 class="major">A bit about me:</h2>
+									<p><b>I've been in the music industry for almost 10 years touring with bands, managing bands, writing songs, recording & releasing music, being a sound person - you name it! These days,
+										I'm producing music in my newly renovated home studio and I would love to partner with you in whatever way you hope to bring your songs to life, whether it's as simple as some editing
+										to make things sound tight and professional, or if it's as big as taking your phone recording of a song idea and turning it into something complete and release ready.</b></p>
+										<ul class="icons">
+											<li><a href="https://www.facebook.com/taranguest" class="icon brands fa-facebook-f" target="_blank"><span class="label">Facebook</span></a></li>
+											<li><a href="https://www.instagram.com/taranguest" class="icon brands fa-instagram" target="_blank"><span class="label">Instagram</span></a></li>
+											<li><a href="https://www.twitter.com/taranguest" class="icon brands fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
+											<li><a href="https://www.youtube.com/channel/UCDiywzI5G6f_126ApTwkhpg/featured" class="icon brands fa-youtube" target="_blank"><span class="label">YouTube</span></a></li>
+											<li><a href="https://taranguest.bandcamp.com" class="icon brands fa-bandcamp" target="_blank"><span class="label">Bandcamp</span></a></li>
+											<li><a href="https://soundcloud.com/taranguest" class="icon brands fa-soundcloud" target="_blank"><span class="label">Soundcloud</span></a></li>
+										</ul>
+								</div>
+								<div class="image filtered tinted" data-position="top left">
+									<img src="images/pic022.jpg" alt="" />
+								</div>
+							</section>
+
+						<!-- Services -->
+							<section class="panel color1 colspan" id="services">
+								<div class="intro joined">
+									<h2 class="major">What I can offer:</h2>
+									<p>Through training, and years of experience - I have developed wide array of skills that can help get you on the right musical path, whether you're just starting, or are looking to take things to the next level. I am a bit of a
+										jack of all trades, but specialize in production, recording, mixing, and mastering, and am excited to discuss the best way to launch your next project. I can also help with several other steps from logo/artwork design to
+										photogrpahy to creating music/lyrics videos for your release.</p>
+								</div>
+
+									<div class="intro color0-alt span-3">
+									<ul class="grid-icons special">
+										<li><a href="#recording" class="icon solid fa-microphone-alt">RECORDING</a></li>
+										<li><a href="#production" class="icon solid fa-guitar">PRODUCTION</a></li>
+										<li><a href="#mixing" class="icon solid fa-sliders-h">MIXING</a></li>
+									</ul>
+									<ul class="grid-icons special">
+										<li><a href="#mastering" class="icon solid fa-file-audio">MASTERING</a></li>
+										<li><a href="#visuals" class="icon solid fa-photo-video">VISUALS</a></li>
+										<li><a href="#design" class="icon solid fa-gem">DESIGN</a></li>
+									</ul>
+								</div>
+							</section>
+
+							<!-- Pricing -->
+								<section class="panel color3 colspan" id="pricing">
+									<div class="intro color3 span-5">
+								<h3 class="major">Rough Pricing Model:</h3>
+								<h4>Open to working within budgets. Contact for more details, or for visual/design pricing.</h4>
+								<div class="table-wrapper">
+									<table>
+										<thead>
+											<tr>
+												<th>Service</th>
+												<th>Description</th>
+												<th>Est. Price</th>
+											</tr>
+										</thead>
+										<tbody>
+											<tr>
+												<td><b>Production</b></td>
+												<td>Develop song structure, instrumentation, etc.</td>
+												<td>$150/song</td>
+											</tr>
+											<tr>
+												<td><b>Recording</b></td>
+												<td>In person in Halifax, NS (Price includes space/gear/engineer)</td>
+												<td>$30/hour</td>
+											</tr>
+											<tr>
+												<td><b>Mixing</b></td>
+												<td>Get the levels and tones just right</td>
+												<td>$125/song</td>
+											</tr>
+											<tr>
+												<td><b>Mastering</b></td>
+												<td>Get your song commercial release ready</td>
+												<td>$50/song</td>
+											</tr>
+											<tr>
+												<td><b>Package</b></td>
+												<td>Production, Mixing, Mastering Artwork design</td>
+												<td>$400/song</td>
+											</tr>
+										</tbody>
+										<tfoot>
+											<tr>
+												<td colspan="1"></td>
+												<td>*Rough estimates shown, actual pricing depends on project scope.</td>
+											</tr>
+										</tfoot>
+									</table>
+								</div>
+						</div>
+					</section>
+
+						<!-- Contact (Spotlight) -->
+							<section class="panel color4">
+								<div class="intro color4 span-3">
+									<h2 class="major">Get in touch:</h2>
+									<p>Get in touch for a no obligation converstaion about what you're looking for, what your budget is, and what I can offer you.</p>
+									<p><b>taranguest@gmail.com</b></p>
+									<p>+1-902-220-6399</p>
+									<ul class="icons" align center>
+										<li><a href="https://www.facebook.com/taranguest" class="icon brands fa-facebook-f" target="_blank"><span class="label">Facebook</span></a></li>
+										<li><a href="https://www.instagram.com/taranguest" class="icon brands fa-instagram" target="_blank"><span class="label">Instagram</span></a></li>
+										<li><a href="https://www.twitter.com/taranguest" class="icon brands fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
+										<li><a href="https://www.youtube.com/channel/UCDiywzI5G6f_126ApTwkhpg/featured" class="icon brands fa-youtube" target="_blank"><span class="label">YouTube</span></a></li>
+										<li><a href="https://taranguest.bandcamp.com" class="icon brands fa-bandcamp" target="_blank"><span class="label">Bandcamp</span></a></li>
+										<li><a href="https://soundcloud.com/taranguest" class="icon brands fa-soundcloud" target="_blank"><span class="label">Soundcloud</span></a></li>
+									</ul>
+								</div>
+							</section>
+
+
+						<!-- Quote -->
+							<section class="panel">
+								<div class="intro color0">
+									<h1 class="major">Quote:</h1>
+									<blockquote>"<b>You're like...such a production wizard!!"</b></blockquote>
+								</div>
+							</section>
+
+							<!-- LABEL - Recording-->
+								<section class="panel">
+									<div class="intro color4 span-1-25">
+										<ul class="grid-icons special">
+											<li><a href="#recording" class="icon solid fa-microphone">Recording</a></li>
+											<li><a href="#pricing" class="button">Pricing</a></li>
+											<li><a href="https://soundcloud.com/taranguest/sets/recording-samples" class="button" target="_blank">More</a></li>
+										</ul>
+									</div>
+								</section>
+
+												<!-- Gallery - Recording-->
+												<section class="panel" id="recording">
+													<div class="gallery">
+														<div class="group span-3">
+															<a href="https://li.sten.to/0B8Zvb5" class="image span-3" data-position="bottom" target="_blank" title="WWWY"><img src="images/gallery/recording/rec-sample1.jpg" alt="" /></a>
+															<a href="https://li.sten.to/39p6viV" class="image span-1-5" data-position="center" target="_blank" title="CoolDown"><img src="images/gallery/recording/rec-sample2.jpg" alt="" /></a>
+															<a href="https://li.sten.to/dURvfEj" class="image span-1-5" data-position="bottom" target="_blank" title="Heatwave"><img src="images/gallery/recording/rec-sample3.jpg" alt="" /></a>
+														</div>
+												</section>
+
+							<!-- LABEL - Production-->
+								<section class="panel">
+									<div class="intro color3 span-1-25">
+										<ul class="grid-icons special">
+											<li><a href="#production" class="icon solid fa-guitar">Production</a></li>
+											<li><a href="#pricing" class="button">Pricing</a></li>
+											<li><a href="https://soundcloud.com/taranguest/sets/production-samples" class="button" target="_blank">More</a></li>
+										</ul>
+									</div>
+								</section>
+
+												<!-- Gallery - Production-->
+												<section class="panel" id="production">
+													<div class="gallery">
+														<div class="group span-3">
+															<a href="https://soundcloud.com/taranguest/another-night" class="image span-1-5" data-position="center" target="_blank" title="anothernight"><img src="images/gallery/production/prod-sample2.jpg" alt="" /></a>
+															<a href="https://soundcloud.com/taranguest/devil" class="image span-1-5" data-position="bottom" target="_blank" title="sample3"><img src="images/gallery/production/prod-sample3.jpg" alt="" /></a>
+															<a href="https://li.sten.to/vJ2u2ZT" class="image span-3" data-position="bottom" target="_blank" title="Neverland"><img src="images/gallery/production/prod-sample1.jpg" alt="" /></a>
+														</div>
+												</section>
+
+							<!-- LABEL - Mixing-->
+								<section class="panel">
+									<div class="intro color2 span-1-25">
+										<ul class="grid-icons special">
+											<li><a href="#mixing" class="icon solid fa-sliders-h">Mixing</a></li>
+											<li><a href="#pricing" class="button">Pricing</a></li>
+											<li><a href="https://soundcloud.com/taranguest" class="button" target="_blank">More</a></li>
+										</ul>
+									</div>
+								</section>
+
+												<!-- Gallery - Mixing-->
+												<section class="panel" id="mixing">
+													<div class="gallery">
+														<div class="group span-3">
+															<a href="#mixing" class="image span-3" data-position="bottom" title="CountryChristmas"><img src="images/gallery/mixing/mix-sample1.jpg" alt="" /></a>
+															<a href="#mixing" class="image span-1-5" data-position="center" title="sample2"><img src="images/gallery/mixing/mix-sample2.jpg" alt="" /></a>
+															<a href="#mixing" class="image span-1-5" data-position="bottom" title="sample3"><img src="images/gallery/mixing/mix-sample3.jpg" alt="" /></a>
+														</div>
+												</section>
+
+
+						<!-- LABEL - Mastering-->
+													<section class="panel">
+														<div class="intro color1 span-1-25">
+															<ul class="grid-icons special">
+																<li><a href="#mastering" class="icon solid fa-file-audio">Mastering</a></li>
+																<li><a href="#pricing" class="button">Pricing</a></li>
+																<li><a href="https://soundcloud.com/taranguest" class="button" target="_blank">More</a></li>
+															</ul>
+														</div>
+													</section>
+
+																	<!-- Gallery - Mastering-->
+																	<section class="panel" id="mastering">
+																		<div class="gallery">
+																			<div class="group span-3">
+																				<a href="#mastering" class="image span-1-5" data-position="center" title="sample3"><img src="images/gallery/mastering/mas-sample3.jpg" alt="" /></a>
+																				<a href="#mastering" class="image span-1-5" data-position="bottom" title="sample2"><img src="images/gallery/mastering/mas-sample2.jpg" alt="" /></a>
+																				<a href="#mastering" class="image span-3" data-position="bottom" title="CountryChristmas"><img src="images/gallery/mastering/mas-sample1.jpg" alt="" /></a>
+																			</div>
+																	</section>
+
+						<!-- LABEL - Visuals-->
+													<section class="panel">
+														<div class="intro color3 span-1-25">
+															<ul class="grid-icons special">
+																<li><a href="#visuals" class="icon solid fa-photo-video">Visuals</a></li>
+																<li><a href="#pricing" class="button">Pricing</a></li>
+																<li><a href="https://www.youtube.com/channel/UCDiywzI5G6f_126ApTwkhpg/" class="button" target="_blank">More</a></li>
+															</ul>
+														</div>
+													</section>
+
+																	<!-- Gallery - visuals-->
+																	<section class="panel" id="visuals">
+																		<div class="gallery">
+																			<div class="group span-3">
+																				<a href="https://youtu.be/xVJvShptEOQ" class="image span-3" data-position="bottom" target="_blank" title="Heatwave"><img src="images/gallery/visuals/vis-sample1.jpg" alt="" /></a>
+																				<a href="https://youtu.be/7otAJgss-wA" class="image span-1-5" data-position="center" target="_blank" title="runrun"><img src="images/gallery/visuals/vis-sample2.jpg" alt="" /></a>
+																				<a href="https://youtu.be/p-ZsAoNYqOY" class="image span-1-5" data-position="bottom" target="_blank" title="AllIn"><img src="images/gallery/visuals/vis-sample3.jpg" alt="" /></a>
+																			</div>
+																	</section>
+
+							<!-- LABEL - Design-->
+													<section class="panel">
+														<div class="intro color0 span-1-25">
+															<ul class="grid-icons special">
+																<li><a href="#design" class="icon solid fa-gem">Design</a></li>
+																<li><a href="#pricing" class="button">Pricing</a></li>
+																<!--<li><a href="https://soundcloud.com/taranguest" class="button" target="_blank">More</a></li>-->
+															</ul>
+														</div>
+													</section>
+
+																	<!-- Gallery - Design-->
+																	<section class="panel" id="design">
+																		<div class="gallery">
+																			<div class="group span-3">
+																				<a href="images/gallery/design/des-sample3-full.jpg" class="image span-1-5" data-position="center"><img src="images/gallery/design/des-sample3.jpg" alt="" /></a>
+																				<a href="images/gallery/design/des-sample2-full.jpg" class="image span-1-5" data-position="bottom"><img src="images/gallery/design/des-sample2.jpg" alt="" /></a>
+																				<a href="images/gallery/design/des-sample1-full.jpg" class="image span-3" data-position="bottom"><img src="images/gallery/design/des-sample1.jpg" alt="" /></a>
+																			</div>
+																	</section>
+
+
+							<!-- LABEL - HOME-->
+																							<section class="panel">
+																								<div class="intro color4 span-1-25">
+																									<ul class="grid-icons special">
+																										<li><a href="#index" class="icon solid fa-home">HOME</a></li>
+																										<li><a href="#index" class="button">BACK TO TOP</a></li>
+																									</ul>
+																								</div>
+																							</section>
+
+
+
+									<!--<a href="#" class="image filtered span-2-5" data-position="top"><img src="images/gallery/recording/rec-sample4.jpg" alt="" /></a> -->
+
+
+							<!-- Copyright -->
+								<div class="copyright">&copy;<a href="#">Taran Guest, 2020</a>.</div>
+
+						</div>
+
+					</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
